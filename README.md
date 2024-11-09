@@ -21,14 +21,16 @@ To run the project locally, follow these steps:
 ### Installation
 
 Option 1:
+1.   ```sh
+   git clone https://github.com/jonathanjschen913/public-301-A2.git
+2. 
 run ./run.sh. Use this option if you are unsure if you have npm or node both installed, or if you just want to save some time.
 
 Option 2:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/csc301-2024-f/assignment-2-ai-app-jonathanjschen913
-   cd calculator-app
+   git clone https://github.com/jonathanjschen913/public-301-A2.git
 
 2. Install the dependencies:
 
