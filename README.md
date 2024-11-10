@@ -2,6 +2,8 @@
 
 This is a Next.js project that implements a calculator with the ability to save and search past calculations based on names of your choice. The project uses Prisma with SQLite as the database for local development. There is no database for public deployment as it is out of my budget for this course.
 
+Notice that this repository is a copy of https://github.com/csc301-2024-f/assignment-2-ai-app-jonathanjschen913, which is the private repo submitted to GitHub Classroom.
+
 **Introduction Video:** https://drive.google.com/file/d/1VxW3sFkCThGLdsZUQGN_q2q1EWABYQtB/view?usp=sharing
 
 **APP Platform:**
