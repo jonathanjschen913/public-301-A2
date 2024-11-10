@@ -42,7 +42,6 @@ Option 1:
 
    ```sh
    git clone https://github.com/jonathanjschen913/public-301-A2.git
-   cd calculator-app
    
 2. run ./run.sh. Use this option if you are unsure if you have npm or node both installed, or if you just want to save some time.
 
@@ -51,7 +50,6 @@ Option 2:
 
    ```sh
    git clone https://github.com/jonathanjschen913/public-301-A2.git
-   cd calculator-app
 
 2. Install the dependencies:
 
